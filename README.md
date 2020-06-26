@@ -1,4 +1,4 @@
-# <a href=https://carrimaxx.github.io/dicee-game/" target="_blank">dicee-game</a>
+# <a href="https://carrimaxx.github.io/dicee-game/" target="_blank">dicee-game</a>
 
 Click on title to play the game
 Modified the style plus added a refresh button to easily refresh the page
