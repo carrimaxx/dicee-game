@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Lobster&family=Montserrat&display=swap');
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  button {
+    width: 200px;
+    margin: auto;
+    padding: 0.5% 1%;
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    background-color: gold;
+    border-radius: 10px;
+    border: 1px dashed black;
+  }
+
+  .dice.block {
+    text-align: center;
+    display: flex;
+ }
+ .dice  {
+    display: inline-block;
+    margin: 0 3%;
+ }
+  body {
+    background-color:#040a3b;
+  }
+  
+  h1 {
+    margin: 3% 1%;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 6rem;
+    color: #469219;
+  }
+  
+  p {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #469219;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  img {
+    width: 100%;
+  }
+
+ footer {
+    margin: 5%;
+    text-align: center;
+ }
+ .credits {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75rem;
+    color: #fafafa;
+ }
+ a {
+     color: gold;
+     text-decoration: none;
+ }
+  
